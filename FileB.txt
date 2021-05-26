@@ -1,1 +1,1 @@
-"This is FileB -Vesrion 1 feature branch" 
+"This is FileB -Vesrion 2 featurMaster branch" 
